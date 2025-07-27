@@ -37,6 +37,5 @@
 
   <hr>
   <p>💡 技術：HTML 簡易網頁製作、GitHub Pages 發佈</p>
-  <p>🔗 專案網址：<a href="https://pei-pei95.github.io/pei-ux-demo/" target="_blank">點我看成果頁面</a></p>
 </body>
 </html>
